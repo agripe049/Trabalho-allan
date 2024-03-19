@@ -3,7 +3,7 @@ function validarCPF(cpf) {
 
     // Verifica se o CPF tem 11 dígitos
     if (cpf.length !== 11) {
-      console.log("************************************ deu rui")
+      console.log("************************* deu rui")
 
         return false;
     }
